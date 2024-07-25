@@ -24,3 +24,4 @@ asad
 item
 mint
 initia
+lucky
