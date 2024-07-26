@@ -25,3 +25,4 @@ item
 mint
 initia
 lucky
+pancake
