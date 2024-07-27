@@ -26,3 +26,4 @@ mint
 initia
 lucky
 pancake
+tomas
