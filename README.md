@@ -27,3 +27,4 @@ initia
 lucky
 pancake
 tomas
+malt
