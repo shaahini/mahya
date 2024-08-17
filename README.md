@@ -43,3 +43,4 @@ nikoo
 cvex
 civitia
 dune
+minitia
