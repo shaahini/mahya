@@ -60,3 +60,4 @@ major
 pitcher
 ali n
 movement
+chicano
