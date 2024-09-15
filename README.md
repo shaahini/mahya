@@ -71,3 +71,4 @@ scroll
 tuna
 zk
 catizen
+train miner
