@@ -72,3 +72,4 @@ tuna
 zk
 catizen
 train miner
+cvex
