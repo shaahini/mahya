@@ -73,3 +73,4 @@ zk
 catizen
 train miner
 vertus
+ston
