@@ -75,3 +75,4 @@ train miner
 vertus
 ston
 arrow
+hunt
