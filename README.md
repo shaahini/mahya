@@ -80,3 +80,4 @@ season
 nuri
 hanna
 pashangooli
+testnet
