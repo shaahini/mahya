@@ -81,3 +81,4 @@ nuri
 hanna
 pashangooli
 testnet
+memefi
