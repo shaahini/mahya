@@ -83,3 +83,4 @@ pashangooli
 testnet
 memefi
 cati
+moxo
