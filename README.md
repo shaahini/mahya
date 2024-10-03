@@ -84,3 +84,4 @@ testnet
 memefi
 cati
 moxo
+cvex
