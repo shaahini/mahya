@@ -98,3 +98,4 @@ arrow
 sepolia
 init
 ghasem
+arcade
