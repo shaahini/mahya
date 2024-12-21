@@ -125,3 +125,4 @@ lombard
 fandak
 sigar
 dorood
+vedvedi
